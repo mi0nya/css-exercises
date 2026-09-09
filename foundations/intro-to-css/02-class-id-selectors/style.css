@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.classy {
+    background-color: rgb(255, 109, 109);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: rgb(86, 153, 255);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    background-color: rgb(116, 240, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
